@@ -180,17 +180,6 @@ This framework is developed for research purposes to:
 - 🔍 Understand model vulnerabilities
 - 🌟 Contribute to responsible AI development
 
-## 📚 Citation
-
-If you use this framework in your research, please cite our paper (citation to be added upon acceptance).
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Contact
-
-For questions regarding the framework or dataset access, please contact the corresponding author.
 
 ---
 <div align="center">
