@@ -1,4 +1,6 @@
-# 🛡️ LLM Safety Evaluation Framework
+# 🛡️ LLM Criminal Capabilities Evaluation Framework
+
+This paper is accepted by EMNLP 2025 findings.
 
 A comprehensive framework of sensitive knowledge processing, evaluating and detecting potential safety issues in Large Language Models (LLMs).
 
@@ -191,3 +193,5 @@ This framework is developed for research purposes to:
 
 
 > **Note**: This framework integrates with [easy-dataset](https://github.com/ConardLi/easy-dataset) for knowledge chunk generation and processing.
+
+
